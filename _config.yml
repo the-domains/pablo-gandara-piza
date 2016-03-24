@@ -1,28 +1,40 @@
-name: Pablo Gándara-Pizá
-favicon: null
-layout_spectrum: 0.1765667295549065
-typography_spectrum: 0.5018848301842809
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 1
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.6747294212691486
+  brandStrength: 0.8878412388730794
+  rhythmicContrast: 0.562185371061787
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.8878412388730794
   lightness: 0.76060132519342
-  saturation: 0.6747294212691486
-  rhythmicContrast: 0.562185371061787
-purpose: []
+typography_spectrum: 0.9135338
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Pablo Gándara-Pizá
