@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Pablo Gándara-Pizá]]></title>
+        <description><![CDATA[Pablo Gándara-Pizá]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 25 Mar 2016 00:01:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[He Thought, I Thought]]></title>
+            <description><![CDATA[<article><h1>He Thought, I Thought</h1><p>"He thought the view looked cool; I thought he looked cool" - Keren Cabrera</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d673a75-4e1a-4caa-93b4-193c7dcc4ce1.jpg"></article>]]></description>
+            <link>undefinedd93a2c76-1b99-4629-a8ae-ddae1bcfce2e/index.html</link>
+            <guid isPermaLink="false">d93a2c76-1b99-4629-a8ae-ddae1bcfce2e</guid>
+            <pubDate>Fri, 25 Mar 2016 00:01:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
